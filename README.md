@@ -91,6 +91,12 @@ print(f"\nThe Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ```
+
+
+
+
+
+
 # Output : 
 <img width="913" height="536" alt="image" src="https://github.com/user-attachments/assets/fcd824e1-d40c-4a50-9487-00c9e16cb42b" />
 
