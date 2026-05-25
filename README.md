@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
-DEVELOPED BY:ASFEEYA KOWSER F
-REG NO:212225230021
+## DEVELOPED BY:ASFEEYA KOWSER F
+## REG NO:212225230021
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
